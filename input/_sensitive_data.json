@@ -1,0 +1,31 @@
+{
+    "sprecherinnen": [
+        { "name": "Max", "email": "max@mustermann.de" },
+        { "name": "Jane", "email": "jane@doe.de" }
+    ],
+
+    "linkZurTagesordnung": "https://...",
+    "linkZurSignalGruppe": "https://...",
+    "linkZuDiscourse": "https://...",
+    "linkZuUnterarbeitsgruppen": "https://...",
+    "linkZurGeschaeftsordnung": "https://...",
+    "linkZumKalender": "https://...",
+    "linkZumProtokoll": "https://...",
+
+    "nameLag": "LAG Digitales und Medien BaWü",
+    
+    "uhrzeitNaechsteSitzungStart": "19:30",
+    "uhrzeitNaechsteSitzungEnde": "21:30",
+
+    "datumNaechsteSitzung": "2024-08-01",
+    "datumGeschaeftsordnung": "2022-10-06",
+    "datumLetzteSitzung": "2024-07-04",
+  
+    "zoomUhrzeit": "1.Aug. 2024 19:30 Amsterdam, Berlin, Rom, Stockholm, Wien",
+    "zoomMeetingId": "652...",
+    "zoomSchnelleinwahlMobil": ["+491111111111,,652...# Deutschland"],
+    "zoomEinwahlNachAktuellemStandort": ["+49 11 111 111 11 Deutschland"],
+    "zoomOrtseinwahlSuchen": "",
+
+    "zusaetzlicheInfos": ["Dies sind zusätzliche Infos", "sogar mit <strong>html</strong> tags"]
+}
