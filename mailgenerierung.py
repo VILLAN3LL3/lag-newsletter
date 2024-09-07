@@ -4,7 +4,7 @@ import locale
 import os
 
 # Set the locale to de-DE
-locale.setlocale(locale.LC_TIME, 'de_DE')
+locale.setlocale(locale.LC_TIME, 'de_DE.utf-8')
 
 # Prompt the user for their choice
 user_choice = input("Choose an option (1 for 'Sitzungsankündigung', 2 for 'Zoomsession'): ")
